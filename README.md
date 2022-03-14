@@ -39,12 +39,12 @@
 - Запустить проект:
 >python3 manage.py runserver
 
-### Авторы проекта:
+# Авторы проекта:
 - Ilya Rogozin https://github.com/ilyarogozin
 - Mia Evans https://github.com/Evansmia
 - Vlad Pronko https://github.com/VladPronko
 
-### Распределение задач в команде:
+# Распределение задач в команде:
 - Ilya Rogozin
 >Всё, что касается управления пользователями (Auth и Users): система регистрации и аутентификации, права доступа, работа с токеном, система подтверждения через e-mail.
 - Mia Evans
